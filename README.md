@@ -1,5 +1,5 @@
 
-# 🔄 Dialogue Summarization using Pegasus
+# 🔄 Dialogue Summarization using huggingface
 
 # 🔖 Overview
 
